@@ -4,25 +4,23 @@
 
 ### What I did today
 - Created my cybersecurity learning-log repository.
-- Set a goal to practice Linux, networking, Python, and web-security basics.
-- Today’s task: practice basic Linux commands in Ubuntu VirtualBox.
+- Practiced basic Linux commands in Ubuntu VirtualBox.
 
 ### What I learned
 - I learned how to create a GitHub repository and add a Markdown file.
+- `pwd` shows the current folder.
+- `ls` lists files and folders.
+- `whoami` shows the current username.
+- `cd` moves into a folder.
+- `cd ..` goes back one folder.
+- `mkdir folder-name` creates a folder.
+- `rmdir folder-name` removes an empty folder.
+- Linux is case-sensitive: `Desktop` and `desktop` are different.
+- Spaces in folder names need quotation marks.
 
 ### What confused me
 - I am still getting used to GitHub’s interface.
+- I need more practice with moving between folders using `cd`.
 
-### Today’s task
-- Practice five basic Linux commands: pwd, ls, cd, mkdir, and cat.
-
-### 7 November 2026 — Linux practice
-
-- Practiced pwd, ls, whoami, cd, mkdir, and rmdir in Ubuntu.
-- Learned that pwd shows the current folder.
-- Learned that ls lists files and folders.
-- Learned that cd moves into a folder and cd .. goes back.
-- Learned that mkdir creates a folder.
-- Learned that rmdir removes an empty folder.
-- Learned that Linux is case-sensitive: Desktop and desktop are different.
-- Learned that spaces in folder names need quotation marks.
+### Tomorrow’s task
+- Practice creating, viewing, renaming, copying, and deleting files using `touch`, `cat`, `nano`, `mv`, `cp`, and `rm`.
