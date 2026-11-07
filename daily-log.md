@@ -20,7 +20,7 @@
 
 ### What confused me
 - I am still getting used to GitHub’s interface.
-- I need more practice with moving between folders using `cd`.
+- I need more practice moving between folders using `cd`.
 
 ### Tomorrow’s task
 - Practice creating, viewing, renaming, copying, and deleting files using `touch`, `cat`, `nano`, `mv`, `cp`, and `rm`.
