@@ -24,3 +24,10 @@
 
 ### Tomorrow’s task
 - Practice creating, viewing, renaming, copying, and deleting files using `touch`, `cat`, `nano`, `mv`, `cp`, and `rm`.
+
+### 8 November 2026 — Linux files
+- Practiced touch, nano, cat, cp, mv, and rm.
+- Created linux-notes.txt and copied it as backup.txt.
+- Renamed backup.txt to old-notes.txt.
+- Deleted old-notes.txt using rm.
+- Learned that rm permanently deletes files.
