@@ -31,3 +31,13 @@
 - Renamed backup.txt to old-notes.txt.
 - Deleted old-notes.txt using rm.
 - Learned that rm permanently deletes files.
+
+### 9 November 2026 — Progress review
+
+- Practiced Linux navigation: pwd, ls, cd, cd .., and cd ~.
+- Practiced file operations: touch, nano, cat, cp, mv, and rm.
+- Practiced folder operations: mkdir and rmdir.
+- Learned basic Linux permissions: read, write, and execute.
+- Used ls -l and chmod to view and change permissions.
+- Changed Ubuntu’s date and time settings.
+- Created security-practice and notes.txt as practice.
