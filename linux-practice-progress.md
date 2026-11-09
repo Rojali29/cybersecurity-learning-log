@@ -39,4 +39,4 @@
 - Spaces in folder or file names need quotation marks.
 - `rm` permanently deletes files, so I must be careful.
 - `mkdir` creates folders, while `touch` creates files.
-- `cd` moves me between folders, while `mv` moves or renames files.
+- `cd` moves me between folders, while `mv` moves or renames files
