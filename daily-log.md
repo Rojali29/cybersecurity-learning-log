@@ -41,3 +41,37 @@
 - Used ls -l and chmod to view and change permissions.
 - Changed Ubuntu’s date and time settings.
 - Created security-practice and notes.txt as practice.
+
+### 10 November 2026 — Linux permissions
+
+## What I practiced
+- Created `security-practice` using `mkdir security-practice`.
+- Entered the folder using `cd security-practice`.
+- Confirmed my location using `pwd`.
+- Created `notes.txt` using `touch notes.txt`.
+- Viewed file permissions using `ls -l notes.txt`.
+
+## What I learned
+- `ls -l` shows detailed information about files and folders.
+- A line beginning with `-` means a regular file.
+- A line beginning with `d` means a directory/folder.
+- `r` means read permission.
+- `w` means write permission.
+- `x` means execute permission.
+- For a folder, `x` means permission to enter or search the folder.
+- Permissions are divided into owner, group, and others.
+- `u` means user/owner.
+- `g` means group.
+- `o` means others.
+- `chmod u-w file` removes write permission from the owner.
+- `chmod u+w file` gives write permission back to the owner.
+
+## Example
+- `-rw-r--r--` means:
+  - Owner can read and write.
+  - Group can read only.
+  - Others can read only.
+  - Nobody can execute the file.
+
+## What confused me
+- At first, I thought `mv` was used to move myself into a folder, but `mv` moves or renames files and folders. `cd` changes my current folder.
