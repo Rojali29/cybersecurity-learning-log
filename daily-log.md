@@ -75,3 +75,15 @@
 
 ## What confused me
 - At first, I thought `mv` was used to move myself into a folder, but `mv` moves or renames files and folders. `cd` changes my current folder.
+
+
+### 11 November 2026
+
+## What happened
+- I attended an interview.
+- I did not do a technical study session or update GitHub today.
+
+## What I will do next
+- On 12 November, I will do a short 20-minute Linux practice session.
+- I will update GitHub after that session.
+- I will not try to punish myself for missing one day.
